@@ -18,3 +18,6 @@ function Add(FirstNumber, SecondNumber){
 }
 window.alert(Add(FirstNumber, SecondNumber));
 ```
+- [ ] Learn Github
+- [ ] Have dinner
+- [ ] Get sleep
